@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LecRizz</string>
+    <string name="app_subtitle">Your AI reply wingman ✨</string>
+    <string name="app_features">Rizz • Translate • Your Style</string>
+    <string name="language_count_example">150+ languages</string>
+</resources>
